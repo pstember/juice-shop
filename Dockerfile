@@ -1,4 +1,4 @@
-FROM node:12.18.2
+FROM node:12.22.1-buster-slim
 ARG BUILD_DATE
 ARG VCS_REF
 LABEL maintainer="Bjoern Kimminich <bjoern.kimminich@owasp.org>" \
