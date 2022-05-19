@@ -158,7 +158,7 @@
     "socket.io": "^2.3.0",
     "sqlite3": "^5.0.0",
     "svg-captcha": "^1.4.0",
-    "swagger-ui-express": "^4.1.4",
+    "swagger-ui-express": "^4.1.4", 
     "temp": "^0.9.4",
     "tinymce": "^4.1.2",
     "unzipper": "0.9.15",
